@@ -8,3 +8,9 @@ y*b+a
 
 y+x
 z+b
+
+x*y*z
+
+a+b
+
+a+y+b
