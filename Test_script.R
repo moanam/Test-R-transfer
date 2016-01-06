@@ -5,3 +5,5 @@ data=read.table("C:/Users/Moana/Documents/Uni/2015/Uni ZOOL316/R/T11_Invertebrat
 a=1
 b=85
 y*b+a
+
+y+x
